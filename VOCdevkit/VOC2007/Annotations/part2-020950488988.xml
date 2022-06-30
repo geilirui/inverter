@@ -1,7 +1,7 @@
 <annotation>
-	<folder>0630-1</folder>
+	<folder>Annotations</folder>
 	<filename>part2-020950488988.jpg</filename>
-	<path>D:\Jabil\inverter\2022-06-24\0630-1\part2-020950488988.jpg</path>
+	<path>D:\Jabil\inverter\collab\VOCdevkit\VOC2007\Annotations\part2-020950488988.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -54,9 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>159</xmin>
-			<ymin>134</ymin>
+			<ymin>133</ymin>
 			<xmax>339</xmax>
-			<ymax>289</ymax>
+			<ymax>288</ymax>
 		</bndbox>
 	</object>
 </annotation>
