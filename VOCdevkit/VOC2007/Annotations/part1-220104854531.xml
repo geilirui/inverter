@@ -1,0 +1,14 @@
+<annotation>
+	<folder>2022-06-23_powernut</folder>
+	<filename>part1-220104854531.jpg</filename>
+	<path>D:\Jabil\inverter\yolov4-keras-bubbliiiing-master\2022-06-23_powernut\part1-220104854531.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gen_data</folder>
+	<filename>0-62.jpg</filename>
+	<path>D:\Jabil\inverter\gen_data\0-62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nut_b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>50</ymin>
+			<xmax>257</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

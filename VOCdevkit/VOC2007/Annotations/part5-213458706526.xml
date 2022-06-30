@@ -1,0 +1,26 @@
+<annotation>
+	<folder>part2</folder>
+	<filename>part5-213458706526.jpg</filename>
+	<path>D:\Jabil\inverter\2022-06-24\part2\part5-213458706526.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nut_b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>136</ymin>
+			<xmax>206</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

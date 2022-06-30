@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0630-1</folder>
+	<filename>part2-084952860598.jpg</filename>
+	<path>D:\Jabil\inverter\2022-06-24\0630-1\part2-084952860598.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>545</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nut_b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>119</ymin>
+			<xmax>320</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

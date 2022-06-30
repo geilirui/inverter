@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gen_data</folder>
+	<filename>3-150.jpg</filename>
+	<path>D:\Jabil\inverter\gen_data\3-150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screw_m</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>93</ymin>
+			<xmax>294</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

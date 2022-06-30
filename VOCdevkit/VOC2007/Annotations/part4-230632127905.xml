@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Annotations</folder>
+	<filename>part4-230632127905.jpg</filename>
+	<path>D:\Jabil\inverter\yolov4-keras-bubbliiiing-master\VOCdevkit\VOC2007\Annotations\part4-230632127905.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nut_b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>164</ymin>
+			<xmax>154</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>
